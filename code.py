@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""ML1.ipynb
+"""
 
-Author: Diksha Chhabra, Bhavya Kashetti
+Author: Diksha Chhabra
 """
 
 
