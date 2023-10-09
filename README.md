@@ -1,4 +1,4 @@
-In this python project, there are 2 methods of predicting rating of a given movie by a given user.
+# In this python project, there are 2 methods of predicting rating of a given movie by a given user.
 
 1) User-Item based collaborative filtering : Finding the users similar to the
 target user and then taking the weighted average of the ratings given by
