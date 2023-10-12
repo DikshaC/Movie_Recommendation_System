@@ -12,6 +12,7 @@ We have used K-NN to find the top K movies/users for the above methods and the e
 We have used MovieLens Dataset for study purpose whose link is attached in the report.
 For reference, a report is attached for further understanding of methods and project.
 
+## Instructions to run
 To compile and run, 
 python3 code.py <targetUser> <K> <ratings_file> <movies_file>
  
